@@ -1,3 +1,5 @@
+// idea comes from https://youtu.be/p09i_hoFdd0
+
 using System;
 
 namespace ConsoleApplication
